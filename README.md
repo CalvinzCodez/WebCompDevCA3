@@ -39,6 +39,12 @@ Ensure that MongoDB Compass is running and contains a database called bookstore 
 ```
 
 ## Images
+![MainMenu](https://github.com/user-attachments/assets/e0aa4e6b-c807-4434-ae75-ca5c8ce2183d)
+![Login](https://github.com/user-attachments/assets/2b5dca61-8231-4aa3-b040-97dec44b0918)
+![Add](https://github.com/user-attachments/assets/3cab6754-7e3a-41c0-8bfd-735defe8eae7)
+![Delete](https://github.com/user-attachments/assets/02bccfce-c4f8-4ef5-86b8-c1af8a076e69)
+![Edit](https://github.com/user-attachments/assets/bb193815-b568-4063-bbff-5da79f80a885)
+![Purchase](https://github.com/user-attachments/assets/3faa2852-99e9-4a81-b7fa-cad709ad15f4)
 
 ## Author
 Calvin Harvey
