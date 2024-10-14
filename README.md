@@ -38,6 +38,15 @@ node server.js
 Ensure that MongoDB Compass is running and contains a database called bookstore and a collection called books
 ```
 
+## Login Information
+Admin details:
+- Username - admin
+- Password - adminpassword
+
+User details:
+- Username - user
+- Password - password
+
 ## Images
 ![MainMenu](https://github.com/user-attachments/assets/e0aa4e6b-c807-4434-ae75-ca5c8ce2183d)
 ![Login](https://github.com/user-attachments/assets/2b5dca61-8231-4aa3-b040-97dec44b0918)
