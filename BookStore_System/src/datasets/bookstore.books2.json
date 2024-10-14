@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "658c460ba90e66b1c705e188"
+  },
+  "title": "The Great Gatsby",
+  "ISBN": 1535,
+  "author": "F. Scott Fitzgerald",
+  "category": "Tragedy",
+  "price": 7.25,
+  "stock": 14
+},
+{
+  "_id": {
+    "$oid": "658c8f00dc658ba5c409356d"
+  },
+  "title": "Dune",
+  "ISBN": 2414,
+  "author": "Frank Herbert",
+  "category": "Science Fiction",
+  "price": 11.5,
+  "stock": 14
+},
+{
+  "_id": {
+    "$oid": "65908b8c9cba0dd683c32e2d"
+  },
+  "title": "The Hobbit",
+  "ISBN": 2442,
+  "author": "J. RR Tolkien",
+  "category": "Fantasy",
+  "price": 12.5,
+  "stock": 4
+},
+{
+  "title": "The War of the Worlds",
+  "ISBN": 3526,
+  "author": "H. G. Wells",
+  "category": "Science Fiction",
+  "price": 12.5,
+  "stock": 14
+}]
