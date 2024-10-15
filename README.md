@@ -6,6 +6,7 @@ Books are stored with MongoDB and Express JS.
 ## Description/Instructions
 
 Instructions:
+
 For this assignment, you are requested to use React and MongoDB to create an app for a small bookstore. The admin of the system should be able to insert, read, update, and delete book details. As a minimum the book details stored should include: title, ISBN, author, book category (fiction, history, children, educational etc.), price and number in stock.
 To help admin with book insertions, a facility to add books from a JSON file should be provided.
 The system also needs to provide an interface that allows customers to search and buy books. The book searches should be on title, genre and author. Customers may select/view an individual book either by book title or the ISBN before purchasing. Customer should be allowed to buy more than one copy of a book but no more than five copies of a book.
